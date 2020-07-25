@@ -12,3 +12,9 @@ Future Possible Improvements:
 1. Implementing a GUI
 2. Make it a more universal rather than just for a single format
 3. Improvement in speed
+
+How To Use:
+1. Copy the link of the google form and enter it in line no. 7.
+2. Edit the code manually to match the form's format. [Reffer to selenium docs.](https://selenium-python.readthedocs.io/index.html)
+3. Enter the number of times to submit a respone after executing the script.
+4. Let the script do it's work.
